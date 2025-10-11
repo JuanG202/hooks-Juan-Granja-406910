@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveableState</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="intro">Intro</string>
+    <string name="welcome_message">Welcome to the app %1$s %2$s!</string>
+</resources>
